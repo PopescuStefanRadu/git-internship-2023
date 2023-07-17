@@ -6,9 +6,11 @@ Outputs:
 
 
 Row 0:
+
 Stefan Radu Popescu
 
 Row 1: 
+
 Chelcea Calin 
 
 Lazar Elena
