@@ -4,7 +4,7 @@ Finally you need to keep up to date this README in which below will be printed t
 
 Outputs:
 
-row2:
+row-2: \
 Radu Petrachioiu \
 Robert Popescu \
 Gruia Gabriel
