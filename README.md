@@ -3,3 +3,6 @@ The task is to create 3 files, row-1.sh row-2.sh row-3.sh and write a script tah
 Finally you need to keep up to date this README in which below will be printed the outputs of executing the bash files.
 
 Outputs:
+
+row2:
+Radu Petrachioiu
