@@ -8,7 +8,6 @@ Outputs:
 row-2: \
 Radu Petrachioiu \
 Robert Popescu \
-Gruia Gabriel
-Stefan Radu Popescu
-Valentin Petier
-
+Gruia Gabriel \
+Stefan Radu Popescu \
+Valentin Petier \
