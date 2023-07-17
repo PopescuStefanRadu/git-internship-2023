@@ -4,8 +4,11 @@ Finally you need to keep up to date this README in which you need to add the pri
 
 Outputs:
 
+
 row-2: \
 Radu Petrachioiu \
 Robert Popescu \
 Gruia Gabriel
 Stefan Radu Popescu
+Valentin Petier
+
