@@ -5,4 +5,6 @@ Finally you need to keep up to date this README in which below will be printed t
 Outputs:
 
 row2:
-Radu Petrachioiu
+Radu Petrachioiu \
+Robert Popescu \
+Gruia Gabriel
