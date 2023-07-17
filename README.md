@@ -4,5 +4,14 @@ Finally you need to keep up to date this README in which you need to add the pri
 
 Outputs:
 
+
 Row 0:
+
 Stefan Radu Popescu
+
+Row 1: 
+
+Chelcea Calin 
+
+Lazar Elena
+
