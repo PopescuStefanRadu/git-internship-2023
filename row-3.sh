@@ -1,1 +1,1 @@
-echo "Razvan Florin Hilea\n"
+echo "Razvan Florin Hilea\n" > README.md
